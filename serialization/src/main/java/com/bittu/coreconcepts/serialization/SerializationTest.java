@@ -8,9 +8,6 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
-import com.bittu.coreconcepts.serialization.entity.Address;
-import com.bittu.coreconcepts.serialization.entity.Employee;
-
 public class SerializationTest {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException, ClassNotFoundException {
