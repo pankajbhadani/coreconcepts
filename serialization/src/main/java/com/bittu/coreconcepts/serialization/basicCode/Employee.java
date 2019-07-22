@@ -1,4 +1,4 @@
-package com.bittu.coreconcepts.serialization;
+package com.bittu.coreconcepts.serialization.basicCode;
 
 import java.io.Serializable;
 
