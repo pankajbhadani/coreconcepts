@@ -12,13 +12,13 @@ public class SerializationWithInheritenceTest {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException, ClassNotFoundException {
 
-
 		Professional professional = new Professional();
 		professional.setAge(30);
 		professional.setGender("Male");
 		professional.setName("Pankaj Kumar Bhadani");
 		professional.setProfession("Software Engineer");
 		professional.setIncome("50000");
+		professional.setPan("XX");
 		
 		String fileName = "dataSerializationWithInheritenceTest.ser";
 		String filePath = "src/main/resources/";
