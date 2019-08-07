@@ -8,5 +8,6 @@
   <description>coreconcepts</description>
   <modules>
   	<module>serialization</module>
+    <module>multithreading</module>
   </modules>
 </project>
